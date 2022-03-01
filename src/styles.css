@@ -1,5 +1,5 @@
 body{
-  background-image: url("assets/imgs/bg.jpg");
+  background-image: url("assets/imgs/bg1.jpg");
   background-size: cover;
   color: #ffffff;
 }
@@ -36,3 +36,4 @@ a:hover{
 .foooter{
   padding-top: 20px;
 }
+
